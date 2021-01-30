@@ -1,6 +1,6 @@
-                                                                        # JOGOS
-
-![Alt Text](https://github.com/Douglas-cc/Jogos/blob/master/2021-01-30-14-19-09-_online-video-cutter.com_.gif)
+<p align="center">
+  <img src="https://i.ytimg.com/vi/hsm9ljkBJg0/maxresdefault.jpg" />
+</p>
 
 ## Objetivo
 Este repositório tem objetivo de exercitar a lógica de programação de forma lúdica, através do desenvolvimento de joguinhos 2D e coisas afins
@@ -22,3 +22,4 @@ $ pip install pygame
 ```bash
 $ python3 arquivo.py 
 ```
+![Alt Text](https://github.com/Douglas-cc/Jogos/blob/master/2021-01-30-14-19-09-_online-video-cutter.com_.gif)
