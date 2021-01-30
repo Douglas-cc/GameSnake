@@ -1,6 +1,4 @@
-<p align="center">
-  **JOGOS**
-</p>
+                                                                        # JOGOS
 
 ![Alt Text](https://github.com/Douglas-cc/Jogos/blob/master/2021-01-30-14-19-09-_online-video-cutter.com_.gif)
 
