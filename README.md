@@ -1,12 +1,20 @@
 # Objetivo
-Este repositorio tem objetivo de exercitar a logica de programação 
-de forma ludica, atraves do desenvolvimento de joguinhos e coisas afins
+Este repositório tem objetivo de exercitar a lógica de programação de forma lúdica, através do desenvolvimento de joguinhos 2D e coisas afins
 
-# Jogos
+## Jogos disponiveis 
 - Jogo da forca
 - Contador dos artilheiros de campeonato de futebol 
 - Snake
 
-# Como usar?
-- Baixe o arquivo.py
-- Execute no terminal: python arquivo.py
+## Requisitos
+
+Você precisará de Python 3 e pip para instalar o pygame
+
+```bash
+$ pip install pygame
+```
+## Como executar?
+
+```bash
+$ python3 arquivo.py 
+```
